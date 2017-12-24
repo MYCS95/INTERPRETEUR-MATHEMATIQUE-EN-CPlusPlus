@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1480705015 source:c:\users\mycs\desktop\kaamelot\interpreteurmathematique\main.c
+	<stdio.h>
+	"ctype.h"
+	<stdlib.h>
+	<math.h>
+
+1480705015 source:d:\kaamelot\interpreteurmathematique\main.c
+	<stdio.h>
+	"ctype.h"
+	<stdlib.h>
+	<math.h>
+
